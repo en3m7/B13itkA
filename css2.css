@@ -28,10 +28,10 @@ body{
 }
 
 #img1{
-    width: 450px;
+    width: 300px;
     height: auto;
     position: relative;
-    left: 250px;
+    left: 370px;
     top: 30px;
 }
 
@@ -39,8 +39,18 @@ body{
     color: red;
 }
 
-.table{
+.table1{
     bottom: 270px;
+    width: 1260px;
+    height: auto;
+    position: relative;
+    left: 250px;
+    background-color: rgb(124, 0, 0);
+    color: brown;
+}
+
+.table2{
+    bottom: 225px;
     width: 1260px;
     height: auto;
     position: relative;
@@ -51,4 +61,14 @@ body{
 
 .oltext{
     font-size: 15pt;
+}
+
+.ultext{
+    position: relative;
+    left: 500px;
+    font-size: 15pt;
+}
+#Reviews{
+    position: relative;
+    left: 520px;
 }
